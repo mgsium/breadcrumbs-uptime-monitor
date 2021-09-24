@@ -1,20 +1,20 @@
 [
   {
-    "name": "Breadcumbs Game",
+    "name": "Breadcrumbs Game",
     "url": "https://jjayeon.github.io/breadcrumbs/",
     "icon": "https://favicons.githubusercontent.com/jjayeon.github.io",
-    "slug": "breadcumbs-game",
+    "slug": "breadcrumbs-game",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   }
 ]

@@ -6,15 +6,15 @@
     "slug": "breadcrumbs-game",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 96,
-    "timeDay": 272,
-    "timeWeek": 160,
-    "timeMonth": 104,
-    "timeYear": 96,
+    "time": 97,
+    "timeDay": 167,
+    "timeWeek": 162,
+    "timeMonth": 108,
+    "timeYear": 97,
     "dailyMinutesDown": {
       "2022-02-14": 24
     }

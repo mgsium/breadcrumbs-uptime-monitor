@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jjayeon.github.io",
     "slug": "breadcrumbs-game",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 291,
-    "timeWeek": 175,
-    "timeMonth": 215,
-    "timeYear": 191,
+    "uptimeYear": "100.00%",
+    "time": 192,
+    "timeDay": 440,
+    "timeWeek": 228,
+    "timeMonth": 222,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2022-02-14": 24
     }

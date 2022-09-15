@@ -4,7 +4,7 @@
     "url": "https://jjayeon.github.io/breadcrumbs/",
     "icon": "https://favicons.githubusercontent.com/jjayeon.github.io",
     "slug": "breadcrumbs-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 239,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-02-14": 24
     }
   }

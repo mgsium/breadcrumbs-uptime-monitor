@@ -2,7 +2,7 @@
   {
     "name": "Breadcrumbs Game",
     "url": "https://jjayeon.github.io/breadcrumbs/",
-    "icon": "https://favicons.githubusercontent.com/jjayeon.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/jjayeon.github.io.ico",
     "slug": "breadcrumbs-game",
     "status": "up",
     "uptime": "99.98%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 198,
-    "timeDay": 115,
-    "timeWeek": 171,
-    "timeMonth": 256,
+    "time": 199,
+    "timeDay": 226,
+    "timeWeek": 189,
+    "timeMonth": 253,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2022-09-15": 71,

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jjayeon.github.io.ico",
     "slug": "breadcrumbs-game",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 242,
-    "timeWeek": 243,
-    "timeMonth": 284,
-    "timeYear": 259,
+    "time": 242,
+    "timeDay": 491,
+    "timeWeek": 285,
+    "timeMonth": 291,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
